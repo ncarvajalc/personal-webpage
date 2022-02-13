@@ -13,12 +13,18 @@ body {
 h1 {
   font-size: 52px;
 }
+
 h2 {
   font-size: 40px;
 }
 
 h3 {
   font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+  margin: 5px;
 }
 
 a {
@@ -69,10 +75,6 @@ button {
 
 .greeting {
   font-size: 30px;
-}
-p {
-  font-size: 20px;
-  margin: 5px;
 }
 
 .welcome {
