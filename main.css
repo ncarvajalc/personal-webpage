@@ -16,6 +16,11 @@ h3 {
   font-weight: bold;
 }
 
+p {
+  font-size: 20px;
+  margin: 5px;
+}
+
 a {
   font-size: 22px;
 }
@@ -64,11 +69,6 @@ button {
 
 .greeting {
   font-size: 30px;
-}
-
-p {
-  font-size: 20px;
-  margin: 5px;
 }
 
 .welcome {
